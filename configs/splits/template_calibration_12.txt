@@ -1,0 +1,12 @@
+sales-pivot-analysis
+earthquake-plate-calculation
+civ6-adjacency-optimizer
+fix-build-agentops
+travel-planning
+manufacturing-codebook-normalization
+pg-essay-to-audiobook
+glm-lake-mendota
+fix-visual-stability
+lean4-proof
+hvac-control
+lake-warming-attribution

@@ -1,0 +1,41 @@
+{
+  "policy_id": "paper_frozen_selector",
+  "description": "Low-capacity strategy selector used to illustrate the paper protocol. The selector uses only task metadata and original-skill profiles before agent execution.",
+  "default_strategy": "api_code",
+  "candidate_strategies": [
+    "api_code",
+    "rule_formula",
+    "workflow"
+  ],
+  "rules": [
+    {
+      "predicate": "avg_validation_density >= 4.0",
+      "description": "Validation-heavy procedural workflows preserve ordered checks and recovery cues.",
+      "strategy": "workflow",
+      "support": null,
+      "mean_gain": null
+    },
+    {
+      "predicate": "domain_group == scientific_computing",
+      "description": "Scientific tasks often rely on equations, units, thresholds, and conventions.",
+      "strategy": "rule_formula",
+      "support": null,
+      "mean_gain": null
+    },
+    {
+      "predicate": "avg_formula_density >= 2.0",
+      "description": "Formula- or schema-heavy skills need exact invariants preserved.",
+      "strategy": "rule_formula",
+      "support": null,
+      "mean_gain": null
+    },
+    {
+      "predicate": "domain_group == data_analysis_ml",
+      "description": "Schema/statistical-definition-heavy data analysis benefits from rule/formula anchoring.",
+      "strategy": "rule_formula",
+      "support": null,
+      "mean_gain": null
+    }
+  ],
+  "leakage_control": "No held-out verifier score, solution, agent trace, or downstream token usage is used by this selector at inference time."
+}

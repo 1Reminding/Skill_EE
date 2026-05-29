@@ -1,0 +1,26 @@
+{
+  "source_native_compact": {
+    "title": "Source-native compacting",
+    "preserved_anchors": "Original structure, local terminology, author organization",
+    "target_ratio": 0.72,
+    "intended_use": "Skills whose structure already encodes a useful workflow."
+  },
+  "api_code": {
+    "title": "API/code anchoring",
+    "preserved_anchors": "Imports, API calls, object construction, commands, executable snippets",
+    "target_ratio": 0.82,
+    "intended_use": "Code- or tool-heavy skills where API details prevent debugging."
+  },
+  "rule_formula": {
+    "title": "Rule/formula anchoring",
+    "preserved_anchors": "Definitions, formulas, thresholds, schemas, units, conventions",
+    "target_ratio": 0.78,
+    "intended_use": "Scientific, optimization, and rule-governed tasks requiring exact invariants."
+  },
+  "workflow": {
+    "title": "Workflow guarding",
+    "preserved_anchors": "Ordered steps, validation checks, constraints, pitfalls, recovery cues",
+    "target_ratio": 0.62,
+    "intended_use": "Tasks prone to missing checks or procedural drift."
+  }
+}

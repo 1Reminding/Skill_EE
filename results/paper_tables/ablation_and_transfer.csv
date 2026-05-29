@@ -1,0 +1,11 @@
+block,variant_or_setting,partial,QR,rho,delta,NLD
+ablation,Full policy,0.819,1.01,0.93,-0.06,0.07
+ablation,Quality-only,0.826,1.02,1.03,0.08,0.01
+ablation,No overrun penalty,0.817,1.00,0.99,0.03,0.02
+ablation,No NLD bonus,0.802,0.98,0.91,-0.07,0.03
+ablation,No anchor repair,0.776,0.95,0.92,-0.05,0.02
+ablation,Fixed API/code,0.792,0.97,0.94,-0.04,0.04
+frozen_policy_transfer,Gemini Flash,0.819,1.01,0.93,-0.06,0.07
+frozen_policy_transfer,Gemini Pro,0.822,1.04,0.87,-0.12,0.12
+frozen_policy_transfer,Codex + GPT-5.4,0.862,1.03,0.83,-0.16,0.16
+frozen_policy_transfer,Claude + Opus 4.6,0.874,1.03,0.86,-0.13,0.14

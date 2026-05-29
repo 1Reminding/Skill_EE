@@ -1,0 +1,21 @@
+evaluation_role,agent_stack,condition,valid,total_tasks,partial,reward,QR,rs,ra,rho,EO,delta,NLD
+heldout_20,Gemini-CLI + Gemini 3 Flash,original,18,20,0.815,0.61,1.00,1.00,1.00,1.00,0.00,0.00,0.00
+heldout_20,Gemini-CLI + Gemini 3 Flash,api_code,17,20,0.792,0.59,0.97,0.60,0.96,0.94,0.00,-0.04,0.04
+heldout_20,Gemini-CLI + Gemini 3 Flash,rule_formula,19,20,0.555,0.42,0.68,0.65,0.94,0.92,0.00,-0.06,0.00
+heldout_20,Gemini-CLI + Gemini 3 Flash,workflow,19,20,0.731,0.55,0.90,0.58,1.14,1.11,0.14,0.14,0.00
+heldout_20,Gemini-CLI + Gemini 3 Flash,policy_selected,19,20,0.819,0.63,1.01,0.62,0.94,0.93,0.00,-0.06,0.07
+cross_model_86,Gemini-CLI + Gemini 3 Pro,original,72,86,0.792,0.56,1.00,1.00,1.00,1.00,0.00,0.00,0.00
+cross_model_86,Gemini-CLI + Gemini 3 Pro,api_code,73,86,0.808,0.58,1.02,0.61,0.92,0.91,0.00,-0.08,0.08
+cross_model_86,Gemini-CLI + Gemini 3 Pro,rule_formula,74,86,0.704,0.46,0.89,0.66,0.89,0.88,0.00,-0.11,0.00
+cross_model_86,Gemini-CLI + Gemini 3 Pro,workflow,73,86,0.778,0.54,0.98,0.59,1.07,1.04,0.07,0.07,0.00
+cross_model_86,Gemini-CLI + Gemini 3 Pro,policy_selected,75,86,0.822,0.61,1.04,0.63,0.88,0.87,0.00,-0.12,0.12
+cross_model_86,Codex + GPT-5.4,original,74,86,0.835,0.62,1.00,1.00,1.00,1.00,0.00,0.00,0.00
+cross_model_86,Codex + GPT-5.4,api_code,76,86,0.852,0.65,1.02,0.61,0.89,0.88,0.00,-0.11,0.11
+cross_model_86,Codex + GPT-5.4,rule_formula,77,86,0.732,0.50,0.88,0.66,0.86,0.85,0.00,-0.14,0.00
+cross_model_86,Codex + GPT-5.4,workflow,75,86,0.810,0.59,0.97,0.59,1.03,1.00,0.03,0.03,0.00
+cross_model_86,Codex + GPT-5.4,policy_selected,78,86,0.862,0.68,1.03,0.63,0.84,0.83,0.00,-0.16,0.16
+cross_model_86,Claude Code + Opus 4.6,original,76,86,0.852,0.65,1.00,1.00,1.00,1.00,0.00,0.00,0.00
+cross_model_86,Claude Code + Opus 4.6,api_code,77,86,0.864,0.67,1.01,0.61,0.91,0.90,0.00,-0.09,0.10
+cross_model_86,Claude Code + Opus 4.6,rule_formula,78,86,0.756,0.53,0.89,0.66,0.88,0.87,0.00,-0.12,0.00
+cross_model_86,Claude Code + Opus 4.6,workflow,78,86,0.832,0.63,0.98,0.59,1.05,1.02,0.05,0.05,0.00
+cross_model_86,Claude Code + Opus 4.6,policy_selected,79,86,0.874,0.70,1.03,0.63,0.87,0.86,0.00,-0.13,0.14

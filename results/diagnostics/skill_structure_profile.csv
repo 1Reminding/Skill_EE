@@ -1,0 +1,232 @@
+task_id,skill_id,category,difficulty,tokens,section_count,code_block_count,code_token_ratio,constraint_density,validation_density,workflow_density,example_density,archetype,path
+3d-scan-calc,mesh-analysis,engineering,hard,403,10,1,0.1563,3.0,1.0,8.0,0.0,workflow_recipe,tasks\3d-scan-calc\environment\skills\mesh-analysis\SKILL.md
+adaptive-cruise-control,csv-processing,control-systems,medium,321,19,6,0.757,0.0,2.0,2.0,0.0,code_heavy_reference,tasks\adaptive-cruise-control\environment\skills\csv-processing\SKILL.md
+adaptive-cruise-control,pid-controller,control-systems,medium,417,6,2,0.3885,0.0,0.0,15.0,0.0,code_heavy_reference,tasks\adaptive-cruise-control\environment\skills\pid-controller\SKILL.md
+adaptive-cruise-control,simulation-metrics,control-systems,medium,372,6,5,0.7124,0.0,0.0,0.0,0.0,code_heavy_reference,tasks\adaptive-cruise-control\environment\skills\simulation-metrics\SKILL.md
+adaptive-cruise-control,vehicle-dynamics,control-systems,medium,318,7,7,0.6164,0.0,0.0,0.0,0.0,code_heavy_reference,tasks\adaptive-cruise-control\environment\skills\vehicle-dynamics\SKILL.md
+adaptive-cruise-control,yaml-config,control-systems,medium,253,7,4,0.6047,0.0,0.0,3.0,0.0,code_heavy_reference,tasks\adaptive-cruise-control\environment\skills\yaml-config\SKILL.md
+azure-bgp-oscillation-route-leak,azure-bgp,bgp-route,medium,1745,16,1,0.0275,5.7307,1.1461,40.1146,1.1461,workflow_recipe,tasks\azure-bgp-oscillation-route-leak\environment\skills\azure-bgp\SKILL.md
+citation-check,citation-management,research,medium,5172,147,27,0.3126,3.0936,8.5073,61.8716,1.5468,code_heavy_reference,tasks\citation-check\environment\skills\citation-management\SKILL.md
+civ6-adjacency-optimizer,civ6lib,games,hard,1119,36,3,0.0992,5.3619,0.8937,30.3843,0.0,workflow_recipe,tasks\civ6-adjacency-optimizer\environment\skills\civ6lib\SKILL.md
+civ6-adjacency-optimizer,hex-grid-spatial,games,hard,581,14,5,0.6213,1.0,1.0,4.0,0.0,code_heavy_reference,tasks\civ6-adjacency-optimizer\environment\skills\hex-grid-spatial\SKILL.md
+civ6-adjacency-optimizer,map-optimization-strategy,games,hard,798,9,3,0.1842,2.0,2.0,26.0,1.0,workflow_recipe,tasks\civ6-adjacency-optimizer\environment\skills\map-optimization-strategy\SKILL.md
+civ6-adjacency-optimizer,sqlite-map-parser,games,hard,748,20,11,0.6083,0.0,1.0,12.0,1.0,code_heavy_reference,tasks\civ6-adjacency-optimizer\environment\skills\sqlite-map-parser\SKILL.md
+court-form-filling,pdf,document-processing,easy,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\court-form-filling\environment\skills\pdf\SKILL.md
+crystallographic-wyckoff-position-analysis,pymatgen,materials_science,medium,2902,95,32,0.4735,0.3446,1.7229,26.1888,0.3446,code_heavy_reference,tasks\crystallographic-wyckoff-position-analysis\environment\skills\pymatgen\SKILL.md
+crystallographic-wyckoff-position-analysis,sympy,materials_science,medium,2565,70,34,0.5209,0.3899,1.9493,21.0526,1.9493,code_heavy_reference,tasks\crystallographic-wyckoff-position-analysis\environment\skills\sympy\SKILL.md
+dapt-intrusion-detection,pcap-analysis,security,hard,2570,62,19,0.6634,4.6693,1.5564,7.7821,0.3891,code_heavy_reference,tasks\dapt-intrusion-detection\environment\skills\pcap-analysis\SKILL.md
+dapt-intrusion-detection,threat-detection,security,hard,798,16,11,0.5551,4.0,0.0,3.0,2.0,code_heavy_reference,tasks\dapt-intrusion-detection\environment\skills\threat-detection\SKILL.md
+data-to-d3,d3-visualization,Data Visualization,medium,1070,14,7,0.2206,6.5421,0.0,42.0561,0.9346,code_heavy_reference,tasks\data-to-d3\environment\skills\d3-visualization\SKILL.md
+dialogue-parser,dialogue_graph,game,easy,405,21,8,0.4,0.0,3.0,5.0,0.0,code_heavy_reference,tasks\dialogue-parser\environment\skills\dialogue_graph\SKILL.md
+dynamic-object-aware-egomotion,dyn-object-masks,video-analysis,medium,379,4,1,0.2902,1.0,1.0,10.0,0.0,workflow_recipe,tasks\dynamic-object-aware-egomotion\environment\skills\dyn-object-masks\SKILL.md
+dynamic-object-aware-egomotion,egomotion-estimation,video-analysis,medium,370,5,1,0.2622,1.0,1.0,10.0,1.0,workflow_recipe,tasks\dynamic-object-aware-egomotion\environment\skills\egomotion-estimation\SKILL.md
+dynamic-object-aware-egomotion,output-validation,video-analysis,medium,332,4,1,0.4277,0.0,8.0,10.0,1.0,code_heavy_reference,tasks\dynamic-object-aware-egomotion\environment\skills\output-validation\SKILL.md
+dynamic-object-aware-egomotion,sampling-and-indexing,video-analysis,medium,272,5,1,0.1728,1.0,2.0,12.0,1.0,workflow_recipe,tasks\dynamic-object-aware-egomotion\environment\skills\sampling-and-indexing\SKILL.md
+earthquake-phase-association,gamma-phase-associator,seismology,hard,1612,36,5,0.098,8.6849,0.0,11.7866,3.7221,code_heavy_reference,tasks\earthquake-phase-association\environment\skills\gamma-phase-associator\SKILL.md
+earthquake-phase-association,obspy-data-api,seismology,hard,848,11,1,0.1309,0.0,0.0,18.0,2.0,workflow_recipe,tasks\earthquake-phase-association\environment\skills\obspy-data-api\SKILL.md
+earthquake-phase-association,seisbench-model-api,seismology,hard,1350,7,4,0.0481,2.2222,2.2222,6.6667,2.2222,code_heavy_reference,tasks\earthquake-phase-association\environment\skills\seisbench-model-api\SKILL.md
+earthquake-phase-association,seismic-picker-selection,seismology,hard,726,13,0,0.0,1.0,0.0,32.0,0.0,workflow_recipe,tasks\earthquake-phase-association\environment\skills\seismic-picker-selection\SKILL.md
+earthquake-plate-calculation,geospatial-analysis,geophysics,medium,1115,48,10,0.504,5.3812,0.0,15.2466,0.8969,code_heavy_reference,tasks\earthquake-plate-calculation\environment\skills\geospatial-analysis\SKILL.md
+econ-detrending-correlation,timeseries-detrending,economics,medium,788,23,4,0.2475,4.0,2.0,20.0,1.0,code_heavy_reference,tasks\econ-detrending-correlation\environment\skills\timeseries-detrending\SKILL.md
+edit-pdf,pdf-editing,,medium,1857,36,12,0.5547,12.3856,0.0,26.3866,0.5385,code_heavy_reference,tasks\edit-pdf\environment\skills\pdf-editing\SKILL.md
+edit-pdf,text-parser,,medium,176,8,3,0.5795,0.0,0.0,6.0,3.0,code_heavy_reference,tasks\edit-pdf\environment\skills\text-parser\SKILL.md
+energy-ac-optimal-power-flow,ac-branch-pi-model,energy,medium,948,13,2,0.1245,1.0,0.0,41.0,1.0,workflow_recipe,tasks\energy-ac-optimal-power-flow\environment\skills\ac-branch-pi-model\SKILL.md
+energy-ac-optimal-power-flow,casadi-ipopt-nlp,energy,medium,859,23,11,0.525,1.0,3.0,9.0,0.0,code_heavy_reference,tasks\energy-ac-optimal-power-flow\environment\skills\casadi-ipopt-nlp\SKILL.md
+energy-ac-optimal-power-flow,power-flow-data,energy,medium,757,16,9,0.5878,3.0,2.0,0.0,0.0,code_heavy_reference,tasks\energy-ac-optimal-power-flow\environment\skills\power-flow-data\SKILL.md
+energy-market-pricing,dc-power-flow,energy,hard,576,15,7,0.4514,1.0,0.0,6.0,0.0,code_heavy_reference,tasks\energy-market-pricing\environment\skills\dc-power-flow\SKILL.md
+energy-market-pricing,economic-dispatch,energy,hard,873,17,8,0.6025,3.0,0.0,0.0,0.0,code_heavy_reference,tasks\energy-market-pricing\environment\skills\economic-dispatch\SKILL.md
+energy-market-pricing,locational-marginal-prices,energy,hard,828,16,4,0.4843,1.0,1.0,15.0,0.0,code_heavy_reference,tasks\energy-market-pricing\environment\skills\locational-marginal-prices\SKILL.md
+energy-market-pricing,power-flow-data,energy,hard,757,16,9,0.5878,3.0,2.0,0.0,0.0,code_heavy_reference,tasks\energy-market-pricing\environment\skills\power-flow-data\SKILL.md
+enterprise-information-search,enterprise-artifact-search,enterprise-search,hard,1778,19,3,0.0771,7.874,0.5624,33.7458,2.2497,workflow_recipe,tasks\enterprise-information-search\environment\skills\enterprise-artifact-search\SKILL.md
+exceltable-in-ppt,pptx,Office Operation,medium,4473,25,16,0.1256,6.4833,2.6828,45.607,1.5649,code_heavy_reference,tasks\exceltable-in-ppt\environment\skills\pptx\SKILL.md
+exceltable-in-ppt,xlsx,Office Operation,medium,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\exceltable-in-ppt\environment\skills\xlsx\SKILL.md
+exoplanet-detection-period,box-least-squares,astronomy,medium,1735,53,12,0.3545,2.3055,5.1873,42.0749,0.5764,code_heavy_reference,tasks\exoplanet-detection-period\environment\skills\box-least-squares\SKILL.md
+exoplanet-detection-period,exoplanet-workflows,astronomy,medium,1157,27,1,0.0069,3.4572,13.8289,83.8375,0.0,workflow_recipe,tasks\exoplanet-detection-period\environment\skills\exoplanet-workflows\SKILL.md
+exoplanet-detection-period,light-curve-preprocessing,astronomy,medium,946,37,8,0.3245,7.0,5.0,36.0,0.0,code_heavy_reference,tasks\exoplanet-detection-period\environment\skills\light-curve-preprocessing\SKILL.md
+exoplanet-detection-period,lomb-scargle-periodogram,astronomy,medium,606,19,5,0.269,1.0,1.0,15.0,0.0,code_heavy_reference,tasks\exoplanet-detection-period\environment\skills\lomb-scargle-periodogram\SKILL.md
+exoplanet-detection-period,transit-least-squares,astronomy,medium,1309,37,8,0.3033,3.0558,4.5837,32.0856,2.2918,code_heavy_reference,tasks\exoplanet-detection-period\environment\skills\transit-least-squares\SKILL.md
+financial-modeling-qa,pdf,financial modeling,hard,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\financial-modeling-qa\environment\skills\pdf\SKILL.md
+financial-modeling-qa,xlsx,financial modeling,hard,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\financial-modeling-qa\environment\skills\xlsx\SKILL.md
+find-topk-similiar-chemicals,pdf,chemistry,medium,1457,56,18,0.5223,0.6863,1.3727,14.4132,0.0,code_heavy_reference,tasks\find-topk-similiar-chemicals\environment\skills\pdf\SKILL.md
+find-topk-similiar-chemicals,pubchem-database,chemistry,medium,2517,54,27,0.4195,0.7946,1.1919,32.5785,0.0,code_heavy_reference,tasks\find-topk-similiar-chemicals\environment\skills\pubchem-database\SKILL.md
+find-topk-similiar-chemicals,rdkit,chemistry,medium,2985,135,39,0.6459,1.34,3.3501,15.0754,0.335,code_heavy_reference,tasks\find-topk-similiar-chemicals\environment\skills\rdkit\SKILL.md
+fix-build-agentops,analyze-ci,Compilation & Build,easy,170,9,2,0.4529,0.0,1.0,1.0,0.0,code_heavy_reference,tasks\fix-build-agentops\environment\skills\analyze-ci\SKILL.md
+fix-build-agentops,temporal-python-testing,Compilation & Build,easy,729,15,2,0.118,1.0,15.0,61.0,0.0,workflow_recipe,tasks\fix-build-agentops\environment\skills\temporal-python-testing\SKILL.md
+fix-build-agentops,testing-python,Compilation & Build,easy,865,29,12,0.5168,5.0,27.0,9.0,0.0,code_heavy_reference,tasks\fix-build-agentops\environment\skills\testing-python\SKILL.md
+fix-build-agentops,uv-package-manager,Compilation & Build,easy,2808,226,36,0.683,0.7123,4.2735,24.9288,0.0,code_heavy_reference,tasks\fix-build-agentops\environment\skills\uv-package-manager\SKILL.md
+fix-build-google-auto,maven-build-lifecycle,Compilation & Build,easy,1511,77,29,0.6506,0.6618,21.178,40.3706,0.0,code_heavy_reference,tasks\fix-build-google-auto\environment\skills\maven-build-lifecycle\SKILL.md
+fix-build-google-auto,maven-dependency-management,Compilation & Build,easy,1458,54,24,0.5782,2.0576,6.1728,17.8326,2.7435,code_heavy_reference,tasks\fix-build-google-auto\environment\skills\maven-dependency-management\SKILL.md
+fix-build-google-auto,maven-plugin-configuration,Compilation & Build,easy,1685,36,23,0.7169,0.5935,11.276,16.6172,2.3739,code_heavy_reference,tasks\fix-build-google-auto\environment\skills\maven-plugin-configuration\SKILL.md
+fix-druid-loophole-cve,jackson-security,Security,hard,718,11,0,0.0,0.0,3.0,11.0,0.0,workflow_recipe,tasks\fix-druid-loophole-cve\environment\skills\jackson-security\SKILL.md
+fix-druid-loophole-cve,senior-java,Security,hard,2866,62,19,0.1685,1.3957,4.187,55.1291,0.3489,code_heavy_reference,tasks\fix-druid-loophole-cve\environment\skills\senior-java\SKILL.md
+fix-erlang-ssh-cve,erlang-concurrency,erlang bugfix,hard,1248,9,3,0.4832,0.8013,0.0,43.2692,0.0,code_heavy_reference,tasks\fix-erlang-ssh-cve\environment\skills\erlang-concurrency\SKILL.md
+fix-erlang-ssh-cve,erlang-distribution,erlang bugfix,hard,1887,12,6,0.6174,1.0599,3.1797,20.6677,0.0,code_heavy_reference,tasks\fix-erlang-ssh-cve\environment\skills\erlang-distribution\SKILL.md
+fix-erlang-ssh-cve,erlang-otp-behaviors,erlang bugfix,hard,2235,9,3,0.7123,0.8949,0.4474,15.66,0.4474,code_heavy_reference,tasks\fix-erlang-ssh-cve\environment\skills\erlang-otp-behaviors\SKILL.md
+fix-erlang-ssh-cve,find-bugs,erlang bugfix,hard,496,7,0,0.0,4.0,6.0,7.0,0.0,mixed_guidance,tasks\fix-erlang-ssh-cve\environment\skills\find-bugs\SKILL.md
+fix-erlang-ssh-cve,senior-security,erlang bugfix,hard,671,38,7,0.1908,2.0,4.0,56.0,1.0,code_heavy_reference,tasks\fix-erlang-ssh-cve\environment\skills\senior-security\SKILL.md
+fix-erlang-ssh-cve,ssh-penetration-testing,erlang bugfix,hard,1878,108,16,0.6049,1.065,5.8573,15.442,0.0,code_heavy_reference,tasks\fix-erlang-ssh-cve\environment\skills\ssh-penetration-testing\SKILL.md
+fix-visual-stability,browser-testing,web-performance,hard,985,18,8,0.3076,0.0,1.0,14.0,1.0,code_heavy_reference,tasks\fix-visual-stability\environment\skills\browser-testing\SKILL.md
+fix-visual-stability,react-best-practices,web-performance,hard,836,13,1,0.0036,6.0,1.0,56.0,2.0,workflow_recipe,tasks\fix-visual-stability\environment\skills\react-best-practices\SKILL.md
+fix-visual-stability,web-interface-guidelines,web-performance,hard,480,11,0,0.0,9.0,0.0,33.0,0.0,workflow_recipe,tasks\fix-visual-stability\environment\skills\web-interface-guidelines\SKILL.md
+flink-query,pdf,flink,hard,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\flink-query\environment\skills\pdf\SKILL.md
+flink-query,senior-data-engineer,flink,hard,3286,62,10,0.1342,0.3043,4.2605,61.4729,0.0,code_heavy_reference,tasks\flink-query\environment\skills\senior-data-engineer\SKILL.md
+flood-risk-analysis,flood-detection,data-processing,medium,576,18,7,0.3837,0.0,4.0,6.0,0.0,code_heavy_reference,tasks\flood-risk-analysis\environment\skills\flood-detection\SKILL.md
+flood-risk-analysis,nws-flood-thresholds,data-processing,medium,637,16,7,0.2527,2.0,0.0,5.0,1.0,code_heavy_reference,tasks\flood-risk-analysis\environment\skills\nws-flood-thresholds\SKILL.md
+flood-risk-analysis,usgs-data-download,data-processing,medium,553,15,4,0.302,1.0,1.0,6.0,0.0,code_heavy_reference,tasks\flood-risk-analysis\environment\skills\usgs-data-download\SKILL.md
+gh-repo-analytics,gh-cli,devops-analytics,medium,1045,14,7,0.5962,0.0,0.9569,9.5694,3.8278,code_heavy_reference,tasks\gh-repo-analytics\environment\skills\gh-cli\SKILL.md
+glm-lake-mendota,glm-basics,environmental-modeling,hard,360,9,3,0.3278,0.0,4.0,3.0,1.0,sectioned_manual,tasks\glm-lake-mendota\environment\skills\glm-basics\SKILL.md
+glm-lake-mendota,glm-calibration,environmental-modeling,hard,503,10,1,0.2107,0.0,0.0,11.0,0.0,workflow_recipe,tasks\glm-lake-mendota\environment\skills\glm-calibration\SKILL.md
+glm-lake-mendota,glm-output,environmental-modeling,hard,628,13,5,0.5494,1.0,3.0,7.0,0.0,code_heavy_reference,tasks\glm-lake-mendota\environment\skills\glm-output\SKILL.md
+gravitational-wave-detection,conditioning,astronomy,medium,883,32,5,0.3465,2.0,6.0,17.0,1.0,code_heavy_reference,tasks\gravitational-wave-detection\environment\skills\conditioning\SKILL.md
+gravitational-wave-detection,matched-filtering,astronomy,medium,1055,33,4,0.3185,3.7915,3.7915,29.3839,0.0,code_heavy_reference,tasks\gravitational-wave-detection\environment\skills\matched-filtering\SKILL.md
+grid-dispatch-operator,dc-power-flow,energy,medium,576,15,7,0.4514,1.0,0.0,6.0,0.0,code_heavy_reference,tasks\grid-dispatch-operator\environment\skills\dc-power-flow\SKILL.md
+grid-dispatch-operator,economic-dispatch,energy,medium,873,17,8,0.6025,3.0,0.0,0.0,0.0,code_heavy_reference,tasks\grid-dispatch-operator\environment\skills\economic-dispatch\SKILL.md
+grid-dispatch-operator,power-flow-data,energy,medium,757,16,9,0.5878,3.0,2.0,0.0,0.0,code_heavy_reference,tasks\grid-dispatch-operator\environment\skills\power-flow-data\SKILL.md
+hvac-control,excitation-signal-design,control-systems,medium,501,9,1,0.0699,3.0,9.0,27.0,3.0,workflow_recipe,tasks\hvac-control\environment\skills\excitation-signal-design\SKILL.md
+hvac-control,first-order-model-fitting,control-systems,medium,506,10,8,0.2727,0.0,1.0,16.0,0.0,code_heavy_reference,tasks\hvac-control\environment\skills\first-order-model-fitting\SKILL.md
+hvac-control,imc-tuning-rules,control-systems,medium,615,9,5,0.3333,0.0,1.0,20.0,0.0,code_heavy_reference,tasks\hvac-control\environment\skills\imc-tuning-rules\SKILL.md
+hvac-control,safety-interlocks,control-systems,medium,572,8,5,0.5385,2.0,13.0,16.0,0.0,code_heavy_reference,tasks\hvac-control\environment\skills\safety-interlocks\SKILL.md
+hvac-control,scipy-curve-fit,control-systems,medium,698,23,7,0.712,0.0,3.0,18.0,1.0,code_heavy_reference,tasks\hvac-control\environment\skills\scipy-curve-fit\SKILL.md
+invoice-fraud-detection,fuzzy-match,data-validation,hard,522,18,6,0.6245,0.0,3.0,2.0,1.0,code_heavy_reference,tasks\invoice-fraud-detection\environment\skills\fuzzy-match\SKILL.md
+invoice-fraud-detection,pdf,data-validation,hard,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\invoice-fraud-detection\environment\skills\pdf\SKILL.md
+invoice-fraud-detection,xlsx,data-validation,hard,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\invoice-fraud-detection\environment\skills\xlsx\SKILL.md
+jax-computing-basics,jax-skills,research,medium,800,26,8,0.1462,5.0,2.0,37.0,1.0,code_heavy_reference,tasks\jax-computing-basics\environment\skills\jax-skills\SKILL.md
+jpg-ocr-stat,image-ocr,data statistics,hard,1768,32,11,0.4706,2.2624,3.9593,36.7647,0.5656,code_heavy_reference,tasks\jpg-ocr-stat\environment\skills\image-ocr\SKILL.md
+jpg-ocr-stat,openai-vision,data statistics,hard,2686,30,15,0.4516,1.1169,2.6061,17.4981,0.0,code_heavy_reference,tasks\jpg-ocr-stat\environment\skills\openai-vision\SKILL.md
+jpg-ocr-stat,pdf,data statistics,hard,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\jpg-ocr-stat\environment\skills\pdf\SKILL.md
+jpg-ocr-stat,video-frame-extraction,data statistics,hard,1875,33,16,0.608,3.2,4.2667,24.5333,0.5333,code_heavy_reference,tasks\jpg-ocr-stat\environment\skills\video-frame-extraction\SKILL.md
+jpg-ocr-stat,xlsx,data statistics,hard,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\jpg-ocr-stat\environment\skills\xlsx\SKILL.md
+lab-unit-harmonization,lab-unit-harmonization,healthcare,medium,1805,18,4,0.2515,1.662,5.5402,30.4709,1.662,code_heavy_reference,tasks\lab-unit-harmonization\environment\skills\lab-unit-harmonization\SKILL.md
+lake-warming-attribution,contribution-analysis,data-processing,medium,518,12,3,0.5251,2.0,1.0,12.0,0.0,code_heavy_reference,tasks\lake-warming-attribution\environment\skills\contribution-analysis\SKILL.md
+lake-warming-attribution,meteorology-driver-classification,data-processing,medium,350,12,1,0.0486,0.0,2.0,35.0,0.0,workflow_recipe,tasks\lake-warming-attribution\environment\skills\meteorology-driver-classification\SKILL.md
+lake-warming-attribution,pca-decomposition,data-processing,medium,609,23,5,0.381,1.0,4.0,15.0,2.0,code_heavy_reference,tasks\lake-warming-attribution\environment\skills\pca-decomposition\SKILL.md
+lake-warming-attribution,trend-analysis,data-processing,medium,468,12,3,0.2564,0.0,3.0,7.0,2.0,sectioned_manual,tasks\lake-warming-attribution\environment\skills\trend-analysis\SKILL.md
+latex-formula-extraction,marker,latex-extraction,medium,350,10,2,0.1229,0.0,2.0,12.0,0.0,workflow_recipe,tasks\latex-formula-extraction\environment\skills\marker\SKILL.md
+latex-formula-extraction,pdf,latex-extraction,medium,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\latex-formula-extraction\environment\skills\pdf\SKILL.md
+lean4-proof,lean4-memories,formal method,medium,2035,34,22,0.2909,3.9312,3.4398,68.7961,0.9828,code_heavy_reference,tasks\lean4-proof\environment\skills\lean4-memories\SKILL.md
+lean4-proof,lean4-theorem-proving,formal method,medium,1268,16,0,0.0,2.3659,3.1546,27.6025,0.7886,workflow_recipe,tasks\lean4-proof\environment\skills\lean4-theorem-proving\SKILL.md
+manufacturing-codebook-normalization,manufacturing-failure-reason-codebook-normalization,manufacturing,medium,778,0,0,0.0,2.0,0.0,0.0,0.0,mixed_guidance,tasks\manufacturing-codebook-normalization\environment\skills\manufacturing-failure-reason-codebook-normalization\SKILL.md
+manufacturing-equipment-maintenance,reflow-profile-compliance-toolkit,manufacturing,medium,1341,7,7,0.3967,1.4914,0.0,34.3028,0.7457,code_heavy_reference,tasks\manufacturing-equipment-maintenance\environment\skills\reflow-profile-compliance-toolkit\SKILL.md
+manufacturing-equipment-maintenance,reflow_machine_maintenance_guidance,manufacturing,medium,821,11,4,0.5128,0.0,0.0,0.0,0.0,code_heavy_reference,tasks\manufacturing-equipment-maintenance\environment\skills\reflow_machine_maintenance_guidance\SKILL.md
+manufacturing-fjsp-optimization,fjsp-baseline-repair-with-downtime-and-policy,manufacturing,medium,931,5,7,0.4253,1.0,0.0,1.0,0.0,code_heavy_reference,tasks\manufacturing-fjsp-optimization\environment\skills\fjsp-baseline-repair-with-downtime-and-policy\SKILL.md
+mario-coin-counting,ffmpeg,image-processing,medium,351,5,4,0.3419,1.0,0.0,2.0,0.0,code_heavy_reference,tasks\mario-coin-counting\environment\skills\ffmpeg\SKILL.md
+mario-coin-counting,image_editing,image-processing,medium,852,4,3,0.0176,2.0,0.0,2.0,2.0,mixed_guidance,tasks\mario-coin-counting\environment\skills\image_editing\SKILL.md
+mario-coin-counting,object_counter,image-processing,medium,93,1,1,0.1935,0.0,0.0,0.0,0.0,compact_description,tasks\mario-coin-counting\environment\skills\object_counter\SKILL.md
+mars-clouds-clustering,custom-distance-metrics,data-science,hard,450,12,4,0.6111,0.0,0.0,3.0,3.0,code_heavy_reference,tasks\mars-clouds-clustering\environment\skills\custom-distance-metrics\SKILL.md
+mars-clouds-clustering,parallel-processing,data-science,hard,372,13,3,0.5457,0.0,0.0,13.0,1.0,code_heavy_reference,tasks\mars-clouds-clustering\environment\skills\parallel-processing\SKILL.md
+mars-clouds-clustering,pareto-optimization,data-science,hard,638,20,4,0.6708,0.0,1.0,5.0,1.0,code_heavy_reference,tasks\mars-clouds-clustering\environment\skills\pareto-optimization\SKILL.md
+mhc-layer-impl,mhc-algorithm,ml-implementation,hard,600,9,3,0.5,1.0,0.0,9.0,1.0,code_heavy_reference,tasks\mhc-layer-impl\environment\skills\mhc-algorithm\SKILL.md
+mhc-layer-impl,modal-gpu,ml-implementation,hard,396,12,4,0.298,0.0,0.0,8.0,1.0,code_heavy_reference,tasks\mhc-layer-impl\environment\skills\modal-gpu\SKILL.md
+mhc-layer-impl,nanogpt-training,ml-implementation,hard,483,9,3,0.3002,0.0,0.0,10.0,1.0,workflow_recipe,tasks\mhc-layer-impl\environment\skills\nanogpt-training\SKILL.md
+multilingual-video-dubbing,ffmpeg-audio-processing,multimodal-video-dubbing,medium,731,46,10,0.7456,0.0,0.0,14.0,2.0,code_heavy_reference,tasks\multilingual-video-dubbing\environment\skills\ffmpeg-audio-processing\SKILL.md
+multilingual-video-dubbing,ffmpeg-format-conversion,multimodal-video-dubbing,medium,536,31,6,0.5821,0.0,0.0,16.0,0.0,code_heavy_reference,tasks\multilingual-video-dubbing\environment\skills\ffmpeg-format-conversion\SKILL.md
+multilingual-video-dubbing,ffmpeg-media-info,multimodal-video-dubbing,medium,477,27,8,0.6813,0.0,2.0,8.0,2.0,code_heavy_reference,tasks\multilingual-video-dubbing\environment\skills\ffmpeg-media-info\SKILL.md
+multilingual-video-dubbing,ffmpeg-video-editing,multimodal-video-dubbing,medium,490,28,8,0.6122,0.0,0.0,10.0,0.0,code_heavy_reference,tasks\multilingual-video-dubbing\environment\skills\ffmpeg-video-editing\SKILL.md
+multilingual-video-dubbing,ffmpeg-video-filters,multimodal-video-dubbing,medium,648,39,9,0.7222,0.0,0.0,11.0,0.0,code_heavy_reference,tasks\multilingual-video-dubbing\environment\skills\ffmpeg-video-filters\SKILL.md
+multilingual-video-dubbing,text-to-speech,multimodal-video-dubbing,medium,402,5,0,0.0,2.0,1.0,5.0,2.0,mixed_guidance,tasks\multilingual-video-dubbing\environment\skills\text-to-speech\SKILL.md
+offer-letter-generator,docx,document-generation,easy,1085,13,7,0.7843,3.6866,0.9217,17.5115,0.9217,code_heavy_reference,tasks\offer-letter-generator\environment\skills\docx\SKILL.md
+organize-messy-files,docx,file-management,medium,1840,24,9,0.1005,5.4348,3.2609,34.7826,1.087,code_heavy_reference,tasks\organize-messy-files\environment\skills\docx\SKILL.md
+organize-messy-files,file-organizer,file-management,medium,2011,31,25,0.3764,3.4809,1.4918,59.6718,2.4863,code_heavy_reference,tasks\organize-messy-files\environment\skills\file-organizer\SKILL.md
+organize-messy-files,pdf,file-management,medium,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\organize-messy-files\environment\skills\pdf\SKILL.md
+organize-messy-files,planning-with-files,file-management,medium,1067,21,4,0.1275,8.4349,2.8116,23.4302,0.0,code_heavy_reference,tasks\organize-messy-files\environment\skills\planning-with-files\SKILL.md
+organize-messy-files,pptx,file-management,medium,4473,25,16,0.1256,6.4833,2.6828,45.607,1.5649,code_heavy_reference,tasks\organize-messy-files\environment\skills\pptx\SKILL.md
+paper-anonymizer,academic-pdf-redaction,document-editing,medium,599,9,3,0.5977,7.0,3.0,13.0,0.0,code_heavy_reference,tasks\paper-anonymizer\environment\skills\academic-pdf-redaction\SKILL.md
+paper-anonymizer,pdf,document-editing,medium,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\paper-anonymizer\environment\skills\pdf\SKILL.md
+parallel-tfidf-search,memory-optimization,Parallelization,medium,944,21,13,0.5381,2.0,2.0,21.0,0.0,code_heavy_reference,tasks\parallel-tfidf-search\environment\skills\memory-optimization\SKILL.md
+parallel-tfidf-search,python-parallelization,Parallelization,medium,858,12,8,0.3963,2.0,3.0,33.0,0.0,code_heavy_reference,tasks\parallel-tfidf-search\environment\skills\python-parallelization\SKILL.md
+parallel-tfidf-search,workload-balancing,Parallelization,medium,1165,17,7,0.5983,0.0,0.0,21.4592,0.0,code_heavy_reference,tasks\parallel-tfidf-search\environment\skills\workload-balancing\SKILL.md
+pddl-tpp-planning,pddl-skills,research,medium,533,19,5,0.1088,5.0,5.0,29.0,5.0,code_heavy_reference,tasks\pddl-tpp-planning\environment\skills\pddl-skills\SKILL.md
+pdf-excel-diff,pdf,data-comparison,medium,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\pdf-excel-diff\environment\skills\pdf\SKILL.md
+pdf-excel-diff,xlsx,data-comparison,medium,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\pdf-excel-diff\environment\skills\xlsx\SKILL.md
+pedestrian-traffic-counting,gemini-count-in-video,pedestrian traffic counting,hard,1733,27,7,0.5626,3.4622,0.577,40.3924,0.577,code_heavy_reference,tasks\pedestrian-traffic-counting\environment\skills\gemini-count-in-video\SKILL.md
+pedestrian-traffic-counting,gemini-video-understanding,pedestrian traffic counting,hard,1417,25,11,0.3903,3.5286,0.7057,42.343,0.0,code_heavy_reference,tasks\pedestrian-traffic-counting\environment\skills\gemini-video-understanding\SKILL.md
+pedestrian-traffic-counting,gpt-multimodal,pedestrian traffic counting,hard,2748,48,17,0.5706,1.8195,1.8195,26.9287,1.0917,code_heavy_reference,tasks\pedestrian-traffic-counting\environment\skills\gpt-multimodal\SKILL.md
+pedestrian-traffic-counting,video-frame-extraction,pedestrian traffic counting,hard,1875,33,16,0.608,3.2,4.2667,24.5333,0.5333,code_heavy_reference,tasks\pedestrian-traffic-counting\environment\skills\video-frame-extraction\SKILL.md
+pg-essay-to-audiobook,audiobook,speech-synthesis,medium,1347,21,10,0.7134,5.1967,7.4239,15.5902,2.2272,code_heavy_reference,tasks\pg-essay-to-audiobook\environment\skills\audiobook\SKILL.md
+pg-essay-to-audiobook,elevenlabs-tts,speech-synthesis,medium,336,10,6,0.4345,2.0,1.0,10.0,1.0,code_heavy_reference,tasks\pg-essay-to-audiobook\environment\skills\elevenlabs-tts\SKILL.md
+pg-essay-to-audiobook,gtts,speech-synthesis,medium,566,16,5,0.5141,1.0,0.0,11.0,1.0,code_heavy_reference,tasks\pg-essay-to-audiobook\environment\skills\gtts\SKILL.md
+pg-essay-to-audiobook,openai-tts,speech-synthesis,medium,533,10,4,0.4991,0.0,0.0,16.0,1.0,code_heavy_reference,tasks\pg-essay-to-audiobook\environment\skills\openai-tts\SKILL.md
+powerlifting-coef-calc,powerlifting,data-analysis,easy,2274,8,4,0.5941,0.8795,3.9578,6.5963,0.0,code_heavy_reference,tasks\powerlifting-coef-calc\environment\skills\powerlifting\SKILL.md
+powerlifting-coef-calc,senior-data-scientist,data-analysis,easy,865,29,2,0.111,1.0,3.0,101.0,0.0,workflow_recipe,tasks\powerlifting-coef-calc\environment\skills\senior-data-scientist\SKILL.md
+powerlifting-coef-calc,xlsx,data-analysis,easy,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\powerlifting-coef-calc\environment\skills\xlsx\SKILL.md
+pptx-reference-formatting,pptx,office-suite,medium,4473,25,16,0.1256,6.4833,2.6828,45.607,1.5649,code_heavy_reference,tasks\pptx-reference-formatting\environment\skills\pptx\SKILL.md
+protein-expression-analysis,xlsx,data-analysis,middle,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\protein-expression-analysis\environment\skills\xlsx\SKILL.md
+python-scala-translation,python-scala-collections,Code Translation,medium,1162,41,35,0.7616,0.8606,0.0,1.7212,0.0,code_heavy_reference,tasks\python-scala-translation\environment\skills\python-scala-collections\SKILL.md
+python-scala-translation,python-scala-functional,Code Translation,medium,1561,27,20,0.9135,0.6406,0.0,0.0,0.6406,code_heavy_reference,tasks\python-scala-translation\environment\skills\python-scala-functional\SKILL.md
+python-scala-translation,python-scala-idioms,Code Translation,medium,1342,24,21,0.7004,6.7064,0.0,9.687,2.2355,code_heavy_reference,tasks\python-scala-translation\environment\skills\python-scala-idioms\SKILL.md
+python-scala-translation,python-scala-libraries,Code Translation,medium,1312,31,20,0.8887,3.0488,6.8598,0.0,3.0488,code_heavy_reference,tasks\python-scala-translation\environment\skills\python-scala-libraries\SKILL.md
+python-scala-translation,python-scala-oop,Code Translation,medium,1267,23,22,0.8508,3.9463,0.0,0.0,0.0,code_heavy_reference,tasks\python-scala-translation\environment\skills\python-scala-oop\SKILL.md
+python-scala-translation,python-scala-syntax-mapping,Code Translation,medium,748,23,14,0.5976,1.0,0.0,5.0,0.0,code_heavy_reference,tasks\python-scala-translation\environment\skills\python-scala-syntax-mapping\SKILL.md
+quantum-numerical-simulation,qutip,quantum-simulation,medium,1558,59,11,0.5513,0.0,1.9255,15.4044,0.0,code_heavy_reference,tasks\quantum-numerical-simulation\environment\skills\qutip\SKILL.md
+r2r-mpc-control,finite-horizon-lqr,control-systems,medium,245,6,4,0.5837,0.0,0.0,5.0,0.0,code_heavy_reference,tasks\r2r-mpc-control\environment\skills\finite-horizon-lqr\SKILL.md
+r2r-mpc-control,integral-action-design,control-systems,medium,210,6,3,0.219,0.0,0.0,10.0,0.0,workflow_recipe,tasks\r2r-mpc-control\environment\skills\integral-action-design\SKILL.md
+r2r-mpc-control,mpc-horizon-tuning,control-systems,medium,219,5,3,0.2329,0.0,0.0,3.0,0.0,compact_description,tasks\r2r-mpc-control\environment\skills\mpc-horizon-tuning\SKILL.md
+r2r-mpc-control,state-space-linearization,control-systems,medium,198,5,4,0.4141,0.0,1.0,4.0,0.0,code_heavy_reference,tasks\r2r-mpc-control\environment\skills\state-space-linearization\SKILL.md
+react-performance-debugging,browser-testing,web-performance,hard,976,18,8,0.3105,0.0,1.0,14.0,1.0,code_heavy_reference,tasks\react-performance-debugging\environment\skills\browser-testing\SKILL.md
+react-performance-debugging,react-best-practices,web-performance,hard,860,13,0,0.0,8.0,1.0,50.0,0.0,workflow_recipe,tasks\react-performance-debugging\environment\skills\react-best-practices\SKILL.md
+reserves-at-risk-calc,xlsx,financial-analysis,medium,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\reserves-at-risk-calc\environment\skills\xlsx\SKILL.md
+sales-pivot-analysis,pdf,data-analysis,medium,1018,20,8,0.5658,2.947,2.947,6.8762,0.0,code_heavy_reference,tasks\sales-pivot-analysis\environment\skills\pdf\SKILL.md
+sales-pivot-analysis,xlsx,data-analysis,medium,1281,40,9,0.5644,3.9032,0.7806,8.587,0.0,code_heavy_reference,tasks\sales-pivot-analysis\environment\skills\xlsx\SKILL.md
+scheduling-email-assistant,constraint-parser,Scheduling,medium,107,4,1,0.1869,1.0,0.0,0.0,1.0,compact_description,tasks\scheduling-email-assistant\environment\skills\constraint-parser\SKILL.md
+scheduling-email-assistant,gmail-skill,Scheduling,medium,732,34,13,0.3566,3.0,4.0,17.0,5.0,code_heavy_reference,tasks\scheduling-email-assistant\environment\skills\gmail-skill\SKILL.md
+sec-financial-report,13f-analyzer,finance,hard,228,4,3,0.1798,0.0,0.0,0.0,0.0,compact_description,tasks\sec-financial-report\environment\skills\13f-analyzer\SKILL.md
+sec-financial-report,fuzzy-name-search,finance,hard,348,5,6,0.4052,1.0,0.0,0.0,0.0,code_heavy_reference,tasks\sec-financial-report\environment\skills\fuzzy-name-search\SKILL.md
+seismic-phase-picking,obspy-data-api,seismology,hard,848,11,1,0.1309,0.0,0.0,18.0,2.0,workflow_recipe,tasks\seismic-phase-picking\environment\skills\obspy-data-api\SKILL.md
+seismic-phase-picking,obspy-datacenter-client,seismology,hard,778,11,0,0.0,1.0,0.0,1.0,2.0,sectioned_manual,tasks\seismic-phase-picking\environment\skills\obspy-datacenter-client\SKILL.md
+seismic-phase-picking,seisbench-model-api,seismology,hard,1350,7,4,0.0481,2.2222,2.2222,6.6667,2.2222,code_heavy_reference,tasks\seismic-phase-picking\environment\skills\seisbench-model-api\SKILL.md
+seismic-phase-picking,seismic-picker-selection,seismology,hard,726,13,0,0.0,1.0,0.0,32.0,0.0,workflow_recipe,tasks\seismic-phase-picking\environment\skills\seismic-picker-selection\SKILL.md
+setup-fuzzing-py,discover-important-function,security,medium,2527,29,0,0.0,6.7273,8.706,91.8085,0.3957,workflow_recipe,tasks\setup-fuzzing-py\environment\skills\discover-important-function\SKILL.md
+setup-fuzzing-py,fuzzing-python,security,medium,2923,20,33,0.1765,5.1317,0.6842,6.8423,2.3948,code_heavy_reference,tasks\setup-fuzzing-py\environment\skills\fuzzing-python\SKILL.md
+setup-fuzzing-py,setup-env,security,medium,331,11,0,0.0,1.0,2.0,20.0,0.0,workflow_recipe,tasks\setup-fuzzing-py\environment\skills\setup-env\SKILL.md
+shock-analysis-demand,xlsx,financial-analysis,medium,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\shock-analysis-demand\environment\skills\xlsx\SKILL.md
+shock-analysis-supply,xlsx,financial-analysis,hard,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\shock-analysis-supply\environment\skills\xlsx\SKILL.md
+simpo-code-reproduction,nlp-research-repo-package-installment,code reproduction,hard,333,2,0,0.0,4.0,1.0,11.0,1.0,workflow_recipe,tasks\simpo-code-reproduction\environment\skills\nlp-research-repo-package-installment\SKILL.md
+simpo-code-reproduction,pdf,code reproduction,hard,1121,54,17,0.6708,0.0,0.8921,6.2444,0.0,code_heavy_reference,tasks\simpo-code-reproduction\environment\skills\pdf\SKILL.md
+software-dependency-audit,cvss-score-extraction,security,medium,1378,30,10,0.5356,2.9028,2.9028,20.3193,0.7257,code_heavy_reference,tasks\software-dependency-audit\environment\skills\cvss-score-extraction\SKILL.md
+software-dependency-audit,trivy-offline-vulnerability-scanning,security,medium,961,22,6,0.437,4.0,6.0,29.0,2.0,code_heavy_reference,tasks\software-dependency-audit\environment\skills\trivy-offline-vulnerability-scanning\SKILL.md
+software-dependency-audit,vulnerability-csv-reporting,security,medium,1689,35,8,0.5536,6.5127,2.3683,20.7223,0.5921,code_heavy_reference,tasks\software-dependency-audit\environment\skills\vulnerability-csv-reporting\SKILL.md
+speaker-diarization-subtitles,automatic-speech-recognition,audio-visual,hard,860,24,7,0.3977,0.0,3.0,23.0,0.0,code_heavy_reference,tasks\speaker-diarization-subtitles\environment\skills\automatic-speech-recognition\SKILL.md
+speaker-diarization-subtitles,multimodal-fusion,audio-visual,hard,1058,22,7,0.6257,2.8355,4.7259,17.9584,0.9452,code_heavy_reference,tasks\speaker-diarization-subtitles\environment\skills\multimodal-fusion\SKILL.md
+speaker-diarization-subtitles,speaker-clustering,audio-visual,hard,1147,28,7,0.5318,0.0,1.7437,23.5397,0.0,code_heavy_reference,tasks\speaker-diarization-subtitles\environment\skills\speaker-clustering\SKILL.md
+speaker-diarization-subtitles,voice-activity-detection,audio-visual,hard,748,17,5,0.4011,2.0,0.0,29.0,0.0,code_heavy_reference,tasks\speaker-diarization-subtitles\environment\skills\voice-activity-detection\SKILL.md
+spring-boot-jakarta-migration,hibernate-upgrade,Legacy Systems,hard,1150,43,17,0.5652,5.2174,6.9565,10.4348,0.8696,code_heavy_reference,tasks\spring-boot-jakarta-migration\environment\skills\hibernate-upgrade\SKILL.md
+spring-boot-jakarta-migration,jakarta-namespace,Legacy Systems,hard,1073,31,10,0.5061,7.4557,4.6598,27.027,2.7959,code_heavy_reference,tasks\spring-boot-jakarta-migration\environment\skills\jakarta-namespace\SKILL.md
+spring-boot-jakarta-migration,restclient-migration,Legacy Systems,hard,956,28,16,0.6967,0.0,2.0,0.0,3.0,code_heavy_reference,tasks\spring-boot-jakarta-migration\environment\skills\restclient-migration\SKILL.md
+spring-boot-jakarta-migration,spring-boot-migration,Legacy Systems,hard,1370,49,16,0.4343,4.3796,8.7591,21.1679,0.0,code_heavy_reference,tasks\spring-boot-jakarta-migration\environment\skills\spring-boot-migration\SKILL.md
+spring-boot-jakarta-migration,spring-security-6,Legacy Systems,hard,1422,42,21,0.6245,4.9226,4.9226,8.4388,0.7032,code_heavy_reference,tasks\spring-boot-jakarta-migration\environment\skills\spring-security-6\SKILL.md
+suricata-custom-exfil,pcap-triage-tshark,Security & CTF,medium,243,7,6,0.2305,0.0,1.0,4.0,0.0,code_heavy_reference,tasks\suricata-custom-exfil\environment\skills\pcap-triage-tshark\SKILL.md
+suricata-custom-exfil,suricata-offline-evejson,Security & CTF,medium,323,8,4,0.3715,1.0,3.0,7.0,1.0,code_heavy_reference,tasks\suricata-custom-exfil\environment\skills\suricata-offline-evejson\SKILL.md
+suricata-custom-exfil,suricata-rules-basics,Security & CTF,medium,601,10,9,0.2329,5.0,0.0,18.0,0.0,code_heavy_reference,tasks\suricata-custom-exfil\environment\skills\suricata-rules-basics\SKILL.md
+syzkaller-ppdev-syzlang,syz-extract-constants,security,medium,546,15,5,0.1941,0.0,3.0,17.0,1.0,code_heavy_reference,tasks\syzkaller-ppdev-syzlang\environment\skills\syz-extract-constants\SKILL.md
+syzkaller-ppdev-syzlang,syzkaller-build-loop,security,medium,330,14,6,0.2667,0.0,1.0,15.0,0.0,code_heavy_reference,tasks\syzkaller-ppdev-syzlang\environment\skills\syzkaller-build-loop\SKILL.md
+syzkaller-ppdev-syzlang,syzlang-ioctl-basics,security,medium,350,9,10,0.3229,1.0,2.0,4.0,0.0,code_heavy_reference,tasks\syzkaller-ppdev-syzlang\environment\skills\syzlang-ioctl-basics\SKILL.md
+taxonomy-tree-merge,hierarchical-taxonomy-clustering,ML/NLP,hard,664,11,1,0.0301,1.0,0.0,33.0,1.0,workflow_recipe,tasks\taxonomy-tree-merge\environment\skills\hierarchical-taxonomy-clustering\SKILL.md
+threejs-structure-parser,obj-exporter,3d-graphics,medium,586,13,10,0.6177,1.0,0.0,0.0,1.0,code_heavy_reference,tasks\threejs-structure-parser\environment\skills\obj-exporter\SKILL.md
+threejs-structure-parser,threejs,3d-graphics,medium,499,10,5,0.2786,2.0,0.0,19.0,0.0,code_heavy_reference,tasks\threejs-structure-parser\environment\skills\threejs\SKILL.md
+threejs-to-obj,obj-exporter,3d-graphics,medium,315,8,7,0.6413,0.0,0.0,0.0,1.0,code_heavy_reference,tasks\threejs-to-obj\environment\skills\obj-exporter\SKILL.md
+threejs-to-obj,threejs,3d-graphics,medium,499,10,5,0.2786,2.0,0.0,19.0,0.0,code_heavy_reference,tasks\threejs-to-obj\environment\skills\threejs\SKILL.md
+travel-planning,search-accommodations,travel-planning,medium,87,3,2,0.1954,0.0,0.0,0.0,0.0,compact_description,tasks\travel-planning\environment\skills\search-accommodations\SKILL.md
+travel-planning,search-attractions,travel-planning,medium,71,3,2,0.2254,0.0,0.0,0.0,0.0,compact_description,tasks\travel-planning\environment\skills\search-attractions\SKILL.md
+travel-planning,search-cities,travel-planning,medium,76,3,1,0.1447,0.0,0.0,0.0,0.0,compact_description,tasks\travel-planning\environment\skills\search-cities\SKILL.md
+travel-planning,search-driving-distance,travel-planning,medium,86,3,2,0.2442,0.0,0.0,0.0,0.0,compact_description,tasks\travel-planning\environment\skills\search-driving-distance\SKILL.md
+travel-planning,search-flights,travel-planning,medium,85,3,2,0.2353,0.0,0.0,0.0,0.0,compact_description,tasks\travel-planning\environment\skills\search-flights\SKILL.md
+travel-planning,search-restaurants,travel-planning,medium,71,3,2,0.2254,0.0,0.0,0.0,0.0,compact_description,tasks\travel-planning\environment\skills\search-restaurants\SKILL.md
+trend-anomaly-causal-inference,data_cleaning,data-science,hard,728,16,1,0.1346,4.0,1.0,23.0,1.0,workflow_recipe,tasks\trend-anomaly-causal-inference\environment\skills\data_cleaning\SKILL.md
+trend-anomaly-causal-inference,did_causal_analysis,data-science,hard,881,18,2,0.143,4.0,0.0,32.0,3.0,workflow_recipe,tasks\trend-anomaly-causal-inference\environment\skills\did_causal_analysis\SKILL.md
+trend-anomaly-causal-inference,feature_engineering,data-science,hard,797,20,1,0.2108,5.0,7.0,42.0,1.0,workflow_recipe,tasks\trend-anomaly-causal-inference\environment\skills\feature_engineering\SKILL.md
+trend-anomaly-causal-inference,time_series_anomaly_detection,data-science,hard,1064,18,2,0.1983,3.7594,1.8797,33.8346,0.0,workflow_recipe,tasks\trend-anomaly-causal-inference\environment\skills\time_series_anomaly_detection\SKILL.md
+video-filler-word-remover,ffmpeg-video-editing,media-processing,medium,600,17,7,0.6183,1.0,3.0,11.0,0.0,code_heavy_reference,tasks\video-filler-word-remover\environment\skills\ffmpeg-video-editing\SKILL.md
+video-filler-word-remover,filler-word-processing,media-processing,medium,660,9,4,0.5773,0.0,1.0,7.0,0.0,code_heavy_reference,tasks\video-filler-word-remover\environment\skills\filler-word-processing\SKILL.md
+video-filler-word-remover,whisper-transcription,media-processing,medium,648,11,6,0.7114,0.0,0.0,1.0,1.0,code_heavy_reference,tasks\video-filler-word-remover\environment\skills\whisper-transcription\SKILL.md
+video-silence-remover,audio-extractor,media-processing,hard,252,9,2,0.1032,0.0,0.0,14.0,4.0,workflow_recipe,tasks\video-silence-remover\environment\skills\audio-extractor\SKILL.md
+video-silence-remover,energy-calculator,media-processing,hard,296,10,3,0.1959,0.0,0.0,15.0,1.0,workflow_recipe,tasks\video-silence-remover\environment\skills\energy-calculator\SKILL.md
+video-silence-remover,pause-detector,media-processing,hard,413,12,3,0.2107,0.0,0.0,20.0,1.0,workflow_recipe,tasks\video-silence-remover\environment\skills\pause-detector\SKILL.md
+video-silence-remover,report-generator,media-processing,hard,253,9,3,0.3043,0.0,0.0,12.0,1.0,workflow_recipe,tasks\video-silence-remover\environment\skills\report-generator\SKILL.md
+video-silence-remover,segment-combiner,media-processing,hard,260,10,4,0.3154,1.0,0.0,10.0,1.0,code_heavy_reference,tasks\video-silence-remover\environment\skills\segment-combiner\SKILL.md
+video-silence-remover,silence-detector,media-processing,hard,366,12,3,0.2077,0.0,0.0,18.0,1.0,workflow_recipe,tasks\video-silence-remover\environment\skills\silence-detector\SKILL.md
+video-silence-remover,video-processor,media-processing,hard,526,15,6,0.3042,0.0,0.0,30.0,3.0,code_heavy_reference,tasks\video-silence-remover\environment\skills\video-processor\SKILL.md
+video-tutorial-indexer,speech-to-text,multimodal-processing,hard,83,2,2,0.3373,0.0,0.0,0.0,0.0,compact_description,tasks\video-tutorial-indexer\environment\skills\speech-to-text\SKILL.md
+virtualhome-agent-planning,pddl-skills,research,medium,533,19,5,0.1088,5.0,5.0,29.0,5.0,code_heavy_reference,tasks\virtualhome-agent-planning\environment\skills\pddl-skills\SKILL.md
+weighted-gdp-calc,xlsx,financial-analysis,medium,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\weighted-gdp-calc\environment\skills\xlsx\SKILL.md
+xlsx-recover-data,data-reconciliation,spreadsheet,medium,483,10,9,0.1677,1.0,3.0,10.0,3.0,code_heavy_reference,tasks\xlsx-recover-data\environment\skills\data-reconciliation\SKILL.md
+xlsx-recover-data,xlsx,spreadsheet,medium,1942,55,9,0.2178,6.1792,8.2389,40.6797,1.5448,code_heavy_reference,tasks\xlsx-recover-data\environment\skills\xlsx\SKILL.md

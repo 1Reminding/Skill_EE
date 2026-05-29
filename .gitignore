@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+*.log
+
+# Generated experiment artifacts.
+work/
+logs_openai/
+harbor_runs/
+task_variants/
+
+# Large local benchmark copies should stay outside the public repo by default.
+tasks/
+dataset/
