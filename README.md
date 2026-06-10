@@ -1,6 +1,5 @@
 # What Should a Skill Remember?
 
-Core code and public artifacts for **[What Should a Skill Remember? Quality-Cost Trade-offs in Cost-Aware Skill Rewriting for Language Model Agents](https://arxiv.org/abs/2606.09421)**.
 Core code and public artifacts for **What Should a Skill Remember? Quality-Cost Trade-offs in Cost-Aware Skill Rewriting for Language Model Agents**.
 
 📄 **Paper:** [arXiv](https://arxiv.org/abs/2606.09421) | [PDF](https://arxiv.org/pdf/2606.09421)
