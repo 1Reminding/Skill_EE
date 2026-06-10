@@ -1,6 +1,11 @@
 # What Should a Skill Remember?
 
 Core code and public artifacts for **[What Should a Skill Remember? Quality-Cost Trade-offs in Cost-Aware Skill Rewriting for Language Model Agents](https://arxiv.org/abs/2606.09421)**.
+Core code and public artifacts for **What Should a Skill Remember? Quality-Cost Trade-offs in Cost-Aware Skill Rewriting for Language Model Agents**.
+
+📄 **Paper:** [arXiv](https://arxiv.org/abs/2606.09421) | [PDF](https://arxiv.org/pdf/2606.09421)
+
+📦 **Resources:** This repository contains the core code, experimental records, and public artifacts. Code and related materials are being continuously updated.
 
 The project studies skill rewriting as cost-aware operational knowledge preservation. Instead of compressing every `SKILL.md` uniformly, it profiles task-skill structure, rewrites skills with strategy-specific preservation objectives, evaluates quality and cost under fixed task conditions, and learns a lightweight task-conditioned selector.
 
